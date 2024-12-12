@@ -1,0 +1,15 @@
+
+    Pedido ID: 535
+    Referencia: ZWUSYXPUB
+    Total: 147.940000 €
+    Fecha: 2024-11-15 08:34:02
+    Cliente: AGUSTI VINAIXA GRANE
+    Correo: AGUSTIVINAIXA@hotmail.com
+    Dirección: C/ ROGER DE LLURIA, 9-11, MORA D´EBRE - 43740
+    
+Productos:
+Aplique de baño 12W 4500K - Referencia: 9040/60 TYP - Cantidad: 2 - Precio: 19.990000 €
+Aplique de baño 20W 4500K - Referencia: 9301-20 CR - Cantidad: 1 - Precio: 39.990000 €
+Aplique de baño 16W 4000K - Referencia: 9082-45 CR - Cantidad: 1 - Precio: 33.990000 €
+Aplique de baño 12W 4500K - Referencia: 9301-12 CR - Cantidad: 1 - Precio: 23.990000 €
+
